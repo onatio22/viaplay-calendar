@@ -7,93 +7,13 @@ DTSTAMP:20260703T200112Z
 X-PUBLISHED-TTL:PT5M
 REFRESH-INTERVAL;VALUE=DURATION:PT5M
 BEGIN:VEVENT
-DTSTAMP:20260704T200112Z
-DTSTART;TZID=Europe/Stockholm:20260130T130000
-DTEND;TZID=Europe/Stockholm:20260131T002000
-SUMMARY:[13:00-00:20] [BOOKED] F.C. København - Napoli
-UID:job-4938@viaplaybooking.com
-DTSTAMP:20260704T200112Z
-URL:https://viaplaybooking.com/agenda/LC1HKOnKgFvGBfZDVFg43Gy06feFchVSe10Err9oYWA
-DESCRIPTION:F.C. København - Napoli
-
-Role: Robotfoto
-
-Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>F.C. København - Napoli<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/LC1HKOnKgFvGBfZDVFg43Gy06feFchVSe10Err9oYWA">https://viaplaybooking.com/agenda/LC1HKOnKgFvGBfZDVFg43Gy06feFchVSe10Err9oYWA</a></body></html>
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260122T130000
-DTEND;TZID=Europe/Stockholm:20260122T235900
-SUMMARY:[13:00-23:59] [BOOKED] CL-studie: Marseille - Liverpool
-UID:job-2594@viaplaybooking.com
-DTSTAMP:20260703T200112Z
-URL:https://viaplaybooking.com/agenda/mBYKm6VNh6_82co2f-y44bTYaM24IOfYX001UtRiRCI
-DESCRIPTION:CL-studie: Marseille - Liverpool
-
-Role: Robotfoto
-
-Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>CL-studie: Marseille - Liverpool<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/mBYKm6VNh6_82co2f-y44bTYaM24IOfYX001UtRiRCI">https://viaplaybooking.com/agenda/mBYKm6VNh6_82co2f-y44bTYaM24IOfYX001UtRiRCI</a></body></html>
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260126T110000
-DTEND;TZID=Europe/Stockholm:20260126T220500
-SUMMARY:[11:00-22:05] [BOOKED] Prime-studie: West Ham - Sunderland
-UID:job-3667@viaplaybooking.com
-DTSTAMP:20260703T200112Z
-URL:https://viaplaybooking.com/agenda/4ljNJogW7Xs0sBa3ODJavU-fVZQKNX3Z1B6jCWUrnq4
-DESCRIPTION:Prime-studie: West Ham - Sunderland
-
-Role: Robotfoto
-
-Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: West Ham - Sunderland<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/4ljNJogW7Xs0sBa3ODJavU-fVZQKNX3Z1B6jCWUrnq4">https://viaplaybooking.com/agenda/4ljNJogW7Xs0sBa3ODJavU-fVZQKNX3Z1B6jCWUrnq4</a></body></html>
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260127T140000
-DTEND;TZID=Europe/Stockholm:20260127T220000
-SUMMARY:[14:00-22:00] [BOOKED] Champions League Mål-Amok
-UID:job-4666@viaplaybooking.com
-DTSTAMP:20260703T200112Z
-URL:https://viaplaybooking.com/agenda/mmx9Ozs9bBKM_J0ATLAlUAvRCDa1oE0UMmk6wHffviA
-DESCRIPTION:Champions League Mål-Amok
-
-Role: Robotfoto
-
-Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Champions League Mål-Amok<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/mmx9Ozs9bBKM_J0ATLAlUAvRCDa1oE0UMmk6wHffviA">https://viaplaybooking.com/agenda/mmx9Ozs9bBKM_J0ATLAlUAvRCDa1oE0UMmk6wHffviA</a></body></html>
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260704T200112Z
-DTSTART;TZID=Europe/Stockholm:20260128T100000
-DTEND;TZID=Europe/Stockholm:20260128T233100
-SUMMARY:[10:00-23:31] [BOOKED] PL-studie: Leeds - Arsenal
-UID:job-4051@viaplaybooking.com
-DTSTAMP:20260704T200112Z
-URL:https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7yhew
-DESCRIPTION:PL-studie: Leeds - Arsenal
-
-Role: Robotfoto
-
-Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Leeds - Arsenal<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7yhew">https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7yhew</a></body></html>
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20260703T200112Z
 DTSTART;TZID=Europe/Stockholm:20260125T110000
 DTEND;TZID=Europe/Stockholm:20260125T223100
 SUMMARY:[11:00-22:31] [BOOKED] PL-studie: villa - Bromvich
 UID:job-5771@viaplaybooking.com
 DTSTAMP:20260703T200112Z
-URL:https://viaplaybooking.com/agenda/y5SM42IY7
+URL:https://viaplaybooking.com/agenda/y5SM42IY7j
 DESCRIPTION:PL-studie: villa - Bromvich
 
 Role: Robotfoto
