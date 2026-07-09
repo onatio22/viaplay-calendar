@@ -24,25 +24,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260122T170000
-DTEND;TZID=Europe/Stockholm:20260122T225900
-SUMMARY:[17:00-22:59] [BOOKED] CL-studie: Marseille - Liverpool
-UID:job-2994@viaplaybooking.com
-DTSTAMP:20260703T200112Z
-URL:https://viaplaybooking.com/agenda/mBYKm6VNh6_82co2f-y44bTYaM24IOfYX001UtRiRCI
-DESCRIPTION:CL-studie: Marseille - Liverpool
-
-Role: Robotfoto
-
-Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>CL-studie: Marseille - Liverpool<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/mBYKm6VNh6_82co2f-y44bTYaM24IOfYX001UtRiRCI">https://viaplaybooking.com/agenda/mBYKm6VNh6_82co2f-y44bTYaM24IOfYX001UtRiRCI</a></body></html>
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260125T120000
-DTEND;TZID=Europe/Stockholm:20260125T210500
-SUMMARY:[12:00-21:05] [BOOKED] Prime-studie: West Ham - Sunderland
+DTSTART;TZID=Europe/Stockholm:20260125T110000
+DTEND;TZID=Europe/Stockholm:20260125T220500
+SUMMARY:[11:00-22:05] [BOOKED] Prime-studie: West Ham - Sunderland
 UID:job-3467@viaplaybooking.com
 DTSTAMP:20260703T200112Z
 URL:https://viaplaybooking.com/agenda/4ljNJogW7Xs0sBa3ODJavU-fVZQKNX3Z1B6jCWUrnq4
@@ -56,8 +40,8 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260126T110000
-DTEND;TZID=Europe/Stockholm:20260126T230000
+DTSTART;TZID=Europe/Stockholm:20260127T110000
+DTEND;TZID=Europe/Stockholm:20260127T230000
 SUMMARY:[11:00-23:00] [BOOKED] Champions League Mål-Amok
 UID:job-4236@viaplaybooking.com
 DTSTAMP:20260703T200112Z
@@ -72,8 +56,8 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T200112Z
-DTSTART;TZID=Europe/Stockholm:20260129T120000
-DTEND;TZID=Europe/Stockholm:20260129T233100
+DTSTART;TZID=Europe/Stockholm:20260130T120000
+DTEND;TZID=Europe/Stockholm:20260130T233100
 SUMMARY:[12:00-23:31] [BOOKED] PL-studie: Leeds - Arsenal
 UID:job-4691@viaplaybooking.com
 DTSTAMP:20260704T200112Z
@@ -88,9 +72,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260125T140000
+DTSTART;TZID=Europe/Stockholm:20260125T110000
 DTEND;TZID=Europe/Stockholm:20260125T223100
-SUMMARY:[14:00-22:31] [BOOKED] PL-studie: villa - Bromvich
+SUMMARY:[11:00-22:31] [BOOKED] PL-studie: villa - Bromvich
 UID:job-4652@viaplaybooking.com
 DTSTAMP:20260703T200112Z
 URL:https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7y341
