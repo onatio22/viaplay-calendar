@@ -72,8 +72,8 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260127T110000
-DTEND;TZID=Europe/Stockholm:20260127T233100
+DTSTART;TZID=Europe/Stockholm:20260124T110000
+DTEND;TZID=Europe/Stockholm:20260124T233100
 SUMMARY:[11:00-23:31] [BOOKED] PL-studie: villa - Bromvich
 UID:job-4652@viaplaybooking.com
 DTSTAMP:20260703T200112Z
@@ -88,9 +88,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260428T110000
-DTEND;TZID=Europe/Stockholm:20260428T223100
-SUMMARY:[11:00-22:31] [BOOKED] PL-studie: villa - Bromvich
+DTSTART;TZID=Europe/Stockholm:20260421T100000
+DTEND;TZID=Europe/Stockholm:20260421T223100
+SUMMARY:[10:00-22:31] [BOOKED] PL-studie: villa - Bromvich
 UID:job-4152@viaplaybooking.com
 DTSTAMP:20260703T200112Z
 URL:https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7y341
@@ -104,9 +104,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260121T110000
+DTSTART;TZID=Europe/Stockholm:20260121T100000
 DTEND;TZID=Europe/Stockholm:20260121T223100
-SUMMARY:[11:00-22:31] [BOOKED] PL-studie: villa - Bromvich
+SUMMARY:[10:00-22:31] [BOOKED] PL-studie: villa - Bromvich
 UID:job-9952@viaplaybooking.com
 DTSTAMP:20260703T200112Z
 URL:https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7y341
@@ -120,12 +120,28 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260228T110000
-DTEND;TZID=Europe/Stockholm:20260228T223100
-SUMMARY:[11:00-22:31] [OFFERED] PL-studie: villa - Bromvich
+DTSTART;TZID=Europe/Stockholm:20260228T140000
+DTEND;TZID=Europe/Stockholm:20260228T203100
+SUMMARY:[14:00-20:31] [OFFERED] PL-studie: villa - Bromvich
 UID:job-3352@viaplaybooking.com
 DTSTAMP:20260703T200112Z
 URL:https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7y341
+DESCRIPTION:PL-studie: villa - Bromvich
+
+Role: Robotfoto
+
+Go to your agenda to see more details.
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Leeds - Arsenal<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7yhew">https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7yhew</a></body></html>
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260705T200112Z
+DTSTART;TZID=Europe/Stockholm:20260428T140000
+DTEND;TZID=Europe/Stockholm:20260428T203100
+SUMMARY:[14:00-20:31] [OFFERED] PL-studie: villa - Bromvich
+UID:job-7352@viaplaybooking.com
+DTSTAMP:20260705T200112Z
+URL:https://viaplaybooking.com/agenda/y5SM42hfdsdGK44SzjZsR78zUyE3dWu7y341
 DESCRIPTION:PL-studie: villa - Bromvich
 
 Role: Robotfoto
