@@ -5,28 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 DTSTAMP:20260703T200112Z
 X-PUBLISHED-TTL:PT5M
-REFRESH-INTERVAL;VALUE=DURATION:PT5M
+REFRESH-INTERVAL;VALUE=DURATION:PT5M
 BEGIN:VEVENT
 DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260130T170000
-DTEND;TZID=Europe/Stockholm:20260131T003000
-SUMMARY:[17:00-00:30] [BOOKED] F.C. København - Napoli
-UID:job-2929@viaplaybooking.com
-DTSTAMP:20260703T200112Z
-URL:https://viaplaybooking.com/agenda/LC1HKOnKgFvGBfZDVFg43Gy06feFchVSe10Err9oYWA
-DESCRIPTION:F.C. København - Napoli
-
-Role: Robotfoto
-
-Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>F.C. København - Napoli<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/LC1HKOnKgFvGBfZDVFg43Gy06feFchVSe10Err9oYWA">https://viaplaybooking.com/agenda/LC1HKOnKgFvGBfZDVFg43Gy06feFchVSe10Err9oYWA</a></body></html>
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260123T160000
-DTEND;TZID=Europe/Stockholm:20260123T235900
-SUMMARY:[16:00-23:59] [BOOKED] CL-studie: Marseille - Liverpool
+DTSTART;TZID=Europe/Stockholm:20260124T120000
+DTEND;TZID=Europe/Stockholm:20260124T235900
+SUMMARY:[12:00-23:59] [BOOKED] CL-studie: Marseille - Liverpool
 UID:job-2994@viaplaybooking.com
 DTSTAMP:20260703T200112Z
 URL:https://viaplaybooking.com/agenda/mBYKm6VNh6_82co2f-y44bTYaM24IOfYX001UtRiRCI
@@ -40,9 +24,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260129T110000
-DTEND;TZID=Europe/Stockholm:20260129T230500
-SUMMARY:[11:00-23:05] [OFFERED] Prime-studie: West Ham - Sunderland
+DTSTART;TZID=Europe/Stockholm:20260125T120000
+DTEND;TZID=Europe/Stockholm:20260125T210500
+SUMMARY:[12:00-21:05] [BOOKED] Prime-studie: West Ham - Sunderland
 UID:job-3467@viaplaybooking.com
 DTSTAMP:20260703T200112Z
 URL:https://viaplaybooking.com/agenda/4ljNJogW7Xs0sBa3ODJavU-fVZQKNX3Z1B6jCWUrnq4
@@ -56,10 +40,10 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260127T110000
-DTEND;TZID=Europe/Stockholm:20260127T230000
-SUMMARY:[11:00-23:00] [BOOKED] Champions League Mål-Amok
-UID:job-4245@viaplaybooking.com
+DTSTART;TZID=Europe/Stockholm:20260126T100000
+DTEND;TZID=Europe/Stockholm:20260126T230000
+SUMMARY:[10:00-23:00] [BOOKED] Champions League Mål-Amok
+UID:job-4236@viaplaybooking.com
 DTSTAMP:20260703T200112Z
 URL:https://viaplaybooking.com/agenda/mmx9Ozs9bBKM_J0ATLAlUAvRCDa1oE0UMmk6wHffviA
 DESCRIPTION:Champions League Mål-Amok
@@ -72,9 +56,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260704T200112Z
-DTSTART;TZID=Europe/Stockholm:20260129T120000
-DTEND;TZID=Europe/Stockholm:20260129T233100
-SUMMARY:[12:00-23:31] [BOOKED] PL-studie: Leeds - Arsenal
+DTSTART;TZID=Europe/Stockholm:20260129T130000
+DTEND;TZID=Europe/Stockholm:20260129T223100
+SUMMARY:[13:00-22:31] [BOOKED] PL-studie: Leeds - Arsenal
 UID:job-4691@viaplaybooking.com
 DTSTAMP:20260704T200112Z
 URL:https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7yhew
@@ -88,9 +72,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260703T200112Z
-DTSTART;TZID=Europe/Stockholm:20260126T110000
-DTEND;TZID=Europe/Stockholm:20260126T213100
-SUMMARY:[11:00-21:31] [BOOKED] PL-studie: villa - Bromvich
+DTSTART;TZID=Europe/Stockholm:20260125T140000
+DTEND;TZID=Europe/Stockholm:20260125T223100
+SUMMARY:[14:00-22:31] [BOOKED] PL-studie: villa - Bromvich
 UID:job-4652@viaplaybooking.com
 DTSTAMP:20260703T200112Z
 URL:https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7y341
@@ -103,61 +87,13 @@ X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Leeds - Arsen
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260777T200112Z
-DTSTART;TZID=Europe/Stockholm:20260122T190000
-DTEND;TZID=Europe/Stockholm:20260122T233100
-SUMMARY:[19:00-23:31] [BOOKED] PL-studie: arsenal - Bromvich
-UID:job-4699@viaplaybooking.com
-DTSTAMP:20260777T200112Z
-URL:https://viaplaybooking.com/agenda/y5XdgdshnSzjZsR78zUyE3
-DESCRIPTION:PL-studie: villa - Bromvich
-
-Role: Robotfoto
-
-Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Leeds - Arsenal<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7yhew">https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7yhew</a></body></html>
-STATUS:UNCONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260722T200112Z
-DTSTART;TZID=Europe/Stockholm:20260130T110000
-DTEND;TZID=Europe/Stockholm:20260130T233100
-SUMMARY:[11:00-23:31] [OFFERED] PL-studie: villa - FC København
+DTSTAMP:20260703T200112Z
+DTSTART;TZID=Europe/Stockholm:20260125T140000
+DTEND;TZID=Europe/Stockholm:20260125T223100
+SUMMARY:[14:00-22:31] [BOOKED] PL-studie: villa - Bromvich
 UID:job-4952@viaplaybooking.com
-DTSTAMP:20260722T200112Z
+DTSTAMP:20260703T200112Z
 URL:https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7y341
-DESCRIPTION:PL-studie: villa - Bromvich
-
-Role: Robotfoto
-
-Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Leeds - Arsenal<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7yhew">https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7yhew</a></body></html>
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260722T200112Z
-DTSTART;TZID=Europe/Stockholm:20260129T140000
-DTEND;TZID=Europe/Stockholm:20260129T213100
-SUMMARY:[14:00-21:31] [BOOKED] PL-studie: villa - FC København
-UID:job-4232@viaplaybooking.com
-DTSTAMP:20260722T200112Z
-URL:https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7y341
-DESCRIPTION:PL-studie: villa - Bromvich
-
-Role: Robotfoto
-
-Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Leeds - Arsenal<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7yhew">https://viaplaybooking.com/agenda/y5SM42IY7jVVT9kIXdGK44SzjZsR78zUyE3dWu7yhew</a></body></html>
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260701T200112Z
-DTSTART;TZID=Europe/Stockholm:20260126T110000
-DTEND;TZID=Europe/Stockholm:20260126T213100
-SUMMARY:[11:00-21:31] [BOOKED] PL-studie: villa - FC København
-UID:job-2232@viaplaybooking.com
-DTSTAMP:20260701T200112Z
-URL:https://viaplaybooking.com/agenda/y5SM42IY7jVVT8zUyE3dWu7y341jfsg
 DESCRIPTION:PL-studie: villa - Bromvich
 
 Role: Robotfoto
