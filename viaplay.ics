@@ -3,1207 +3,1207 @@ PRODID:-//Viaplay//Sports Crew//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 X-PUBLISHED-TTL:PT5M
 REFRESH-INTERVAL;VALUE=DURATION:PT5M
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260120T170000
 DTEND;TZID=Europe/Stockholm:20260121T003000
 SUMMARY:[17:00-00:30] [BOOKED] F.C. København - Napoli
 UID:job-2822@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/sIZlKmrqgnkBrfhu2NRLK6Ag-BnbLPjV6RZNTXXr4uU
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/5MPivYqC9SYcaUaZdMXAkmF5Vo_3XaL_2o7ERBKr_Ps
 DESCRIPTION:F.C. København - Napoli
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>F.C. København - Napoli<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/sIZlKmrqgnkBrfhu2NRLK6Ag-BnbLPjV6RZNTXXr4uU">https://viaplaybooking.com/agenda/sIZlKmrqgnkBrfhu2NRLK6Ag-BnbLPjV6RZNTXXr4uU</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>F.C. København - Napoli<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/5MPivYqC9SYcaUaZdMXAkmF5Vo_3XaL_2o7ERBKr_Ps">https://viaplaybooking.com/agenda/5MPivYqC9SYcaUaZdMXAkmF5Vo_3XaL_2o7ERBKr_Ps</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260121T180000
 DTEND;TZID=Europe/Stockholm:20260121T235900
 SUMMARY:[18:00-23:59] [BOOKED] CL-studie: Marseille - Liverpool
 UID:job-2986@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/fi4922vIBcI6qIRz4jhgrI3PFkMHI-2HoY_Ptm9iMqQ
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/oHvzVqoZ0fDStSH-KgYrWQaTXDMCSnKeQGLu2o4jFAI
 DESCRIPTION:CL-studie: Marseille - Liverpool
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>CL-studie: Marseille - Liverpool<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/fi4922vIBcI6qIRz4jhgrI3PFkMHI-2HoY_Ptm9iMqQ">https://viaplaybooking.com/agenda/fi4922vIBcI6qIRz4jhgrI3PFkMHI-2HoY_Ptm9iMqQ</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>CL-studie: Marseille - Liverpool<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/oHvzVqoZ0fDStSH-KgYrWQaTXDMCSnKeQGLu2o4jFAI">https://viaplaybooking.com/agenda/oHvzVqoZ0fDStSH-KgYrWQaTXDMCSnKeQGLu2o4jFAI</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260124T100000
 DTEND;TZID=Europe/Stockholm:20260124T210500
 SUMMARY:[10:00-21:05] [BOOKED] Prime-studie: West Ham - Sunderland
 UID:job-3466@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/BxrlevFazYT9mY8QMXI5aHzKOcWvmH6g49f64D5b1fI
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/jW6qK78Hr4gcSGcpereWX9fbcgEZNwkMpJ_j04yJGlE
 DESCRIPTION:Prime-studie: West Ham - Sunderland
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: West Ham - Sunderland<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/BxrlevFazYT9mY8QMXI5aHzKOcWvmH6g49f64D5b1fI">https://viaplaybooking.com/agenda/BxrlevFazYT9mY8QMXI5aHzKOcWvmH6g49f64D5b1fI</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: West Ham - Sunderland<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/jW6qK78Hr4gcSGcpereWX9fbcgEZNwkMpJ_j04yJGlE">https://viaplaybooking.com/agenda/jW6qK78Hr4gcSGcpereWX9fbcgEZNwkMpJ_j04yJGlE</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260128T180000
 DTEND;TZID=Europe/Stockholm:20260128T230000
 SUMMARY:[18:00-23:00] [BOOKED] Champions League Mål-Amok
 UID:job-4260@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/Rxwyo9V0GbLEmvHF5ak1-NZqpw7VtjV29eVp2Sfs3XE
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/OhORfiSQNi1tYJBsQlzkgS_OUlpa4rIlGWuYxUBKmok
 DESCRIPTION:Champions League Mål-Amok
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Champions League Mål-Amok<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/Rxwyo9V0GbLEmvHF5ak1-NZqpw7VtjV29eVp2Sfs3XE">https://viaplaybooking.com/agenda/Rxwyo9V0GbLEmvHF5ak1-NZqpw7VtjV29eVp2Sfs3XE</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Champions League Mål-Amok<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/OhORfiSQNi1tYJBsQlzkgS_OUlpa4rIlGWuYxUBKmok">https://viaplaybooking.com/agenda/OhORfiSQNi1tYJBsQlzkgS_OUlpa4rIlGWuYxUBKmok</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260131T130000
 DTEND;TZID=Europe/Stockholm:20260131T233100
 SUMMARY:[13:00-23:31] [BOOKED] PL-studie: Leeds - Arsenal
 UID:job-4679@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/Jk_ZKJfhzstf88gm_EeZLoVinuZqTDFB6mclyL3KHyo
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/J1rEji1QmJvte2xiYPEn3gucGeRz4VKGWYuCT0PJ0Yw
 DESCRIPTION:PL-studie: Leeds - Arsenal
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Leeds - Arsenal<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/Jk_ZKJfhzstf88gm_EeZLoVinuZqTDFB6mclyL3KHyo">https://viaplaybooking.com/agenda/Jk_ZKJfhzstf88gm_EeZLoVinuZqTDFB6mclyL3KHyo</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Leeds - Arsenal<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/J1rEji1QmJvte2xiYPEn3gucGeRz4VKGWYuCT0PJ0Yw">https://viaplaybooking.com/agenda/J1rEji1QmJvte2xiYPEn3gucGeRz4VKGWYuCT0PJ0Yw</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260304T173000
 DTEND;TZID=Europe/Stockholm:20260305T000500
 SUMMARY:[17:30-00:05] [BOOKED] Prime-studie: Brighton - Arsenal
 UID:job-8592@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/lUDK7VHkg6dj6n0z9Kt12odNGgvIakR2N0GqfgpKGOM
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/8h6Sy3USR07Y4V_5bLlRUqLvtnCGgBazDBFNXZCtQTo
 DESCRIPTION:Prime-studie: Brighton - Arsenal
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Brighton - Arsenal<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/lUDK7VHkg6dj6n0z9Kt12odNGgvIakR2N0GqfgpKGOM">https://viaplaybooking.com/agenda/lUDK7VHkg6dj6n0z9Kt12odNGgvIakR2N0GqfgpKGOM</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Brighton - Arsenal<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/8h6Sy3USR07Y4V_5bLlRUqLvtnCGgBazDBFNXZCtQTo">https://viaplaybooking.com/agenda/8h6Sy3USR07Y4V_5bLlRUqLvtnCGgBazDBFNXZCtQTo</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260314T160000
 DTEND;TZID=Europe/Stockholm:20260314T233500
 SUMMARY:[16:00-23:35] [BOOKED] PL-studie: Arsenal - Everton (PRE MATCH STUDIO)
 UID:job-10403@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/8kvlfudMczu3nhlHuWef4qjg5TZvylgLnXSAsdbM8-0
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/FyigDuEur600wzzfhxmGXCRhzlJrUo7EzK1ThHG4ff4
 DESCRIPTION:PL-studie: Arsenal - Everton (PRE MATCH STUDIO)
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Arsenal - Everton (PRE MATCH STUDIO)<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/8kvlfudMczu3nhlHuWef4qjg5TZvylgLnXSAsdbM8-0">https://viaplaybooking.com/agenda/8kvlfudMczu3nhlHuWef4qjg5TZvylgLnXSAsdbM8-0</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Arsenal - Everton (PRE MATCH STUDIO)<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/FyigDuEur600wzzfhxmGXCRhzlJrUo7EzK1ThHG4ff4">https://viaplaybooking.com/agenda/FyigDuEur600wzzfhxmGXCRhzlJrUo7EzK1ThHG4ff4</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260315T163000
 DTEND;TZID=Europe/Stockholm:20260315T220500
 SUMMARY:[16:30-22:05] [BOOKED] ONSIDE
 UID:job-10760@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/HmVdd-xZ3YKC0P4soDNBiWJ_unPf04s5GO6gnwcfPMk
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/xg8hPDXoeLEgZ9cUt4ifLHZQjGwwYdSZG6jVsufgQeo
 DESCRIPTION:ONSIDE
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>ONSIDE<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/HmVdd-xZ3YKC0P4soDNBiWJ_unPf04s5GO6gnwcfPMk">https://viaplaybooking.com/agenda/HmVdd-xZ3YKC0P4soDNBiWJ_unPf04s5GO6gnwcfPMk</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>ONSIDE<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/xg8hPDXoeLEgZ9cUt4ifLHZQjGwwYdSZG6jVsufgQeo">https://viaplaybooking.com/agenda/xg8hPDXoeLEgZ9cUt4ifLHZQjGwwYdSZG6jVsufgQeo</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260318T130000
 DTEND;TZID=Europe/Stockholm:20260318T160000
 SUMMARY:[13:00-16:00] [BOOKED] TØFFE vs GRAVER
 UID:job-11001@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/Rou6kGuWP9q4qHsDiXkk1to05CkpdV6RHb6RmLrXmy4
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/xtjFhj06WLrjsIglEgebuBLjRQH73eSiHGAAgV3HB98
 DESCRIPTION:TØFFE vs GRAVER
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>TØFFE vs GRAVER<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/Rou6kGuWP9q4qHsDiXkk1to05CkpdV6RHb6RmLrXmy4">https://viaplaybooking.com/agenda/Rou6kGuWP9q4qHsDiXkk1to05CkpdV6RHb6RmLrXmy4</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>TØFFE vs GRAVER<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/xtjFhj06WLrjsIglEgebuBLjRQH73eSiHGAAgV3HB98">https://viaplaybooking.com/agenda/xtjFhj06WLrjsIglEgebuBLjRQH73eSiHGAAgV3HB98</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260321T101500
 DTEND;TZID=Europe/Stockholm:20260321T210500
 SUMMARY:[10:15-21:05] [BOOKED] Prime-studie: Brighton - Liverpool
 UID:job-11456@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/O0S0J9luvTfoQ_yfqNk_S-Lf8k3gzASjfsIGTaFOTvE
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/sFE-m5ZmnBf5YO6XaM8ehHsr6PSHpXWvGCv0-lmFrNU
 DESCRIPTION:Prime-studie: Brighton - Liverpool
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Brighton - Liverpool<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/O0S0J9luvTfoQ_yfqNk_S-Lf8k3gzASjfsIGTaFOTvE">https://viaplaybooking.com/agenda/O0S0J9luvTfoQ_yfqNk_S-Lf8k3gzASjfsIGTaFOTvE</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Brighton - Liverpool<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/sFE-m5ZmnBf5YO6XaM8ehHsr6PSHpXWvGCv0-lmFrNU">https://viaplaybooking.com/agenda/sFE-m5ZmnBf5YO6XaM8ehHsr6PSHpXWvGCv0-lmFrNU</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260401T130000
 DTEND;TZID=Europe/Stockholm:20260401T160000
 SUMMARY:[13:00-16:00] [BOOKED] TØFFE vs GRAVER
 UID:job-12766@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/dEkws7XMN3n8fOdZaqwEzI_ozLMGjHl84grJ7YcqUgU
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/p9qdWSkyNHAb9ta6cdQxUSFIxYAyha8hruVhJ20VqaQ
 DESCRIPTION:TØFFE vs GRAVER
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>TØFFE vs GRAVER<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/dEkws7XMN3n8fOdZaqwEzI_ozLMGjHl84grJ7YcqUgU">https://viaplaybooking.com/agenda/dEkws7XMN3n8fOdZaqwEzI_ozLMGjHl84grJ7YcqUgU</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>TØFFE vs GRAVER<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/p9qdWSkyNHAb9ta6cdQxUSFIxYAyha8hruVhJ20VqaQ">https://viaplaybooking.com/agenda/p9qdWSkyNHAb9ta6cdQxUSFIxYAyha8hruVhJ20VqaQ</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260404T100000
 DTEND;TZID=Europe/Stockholm:20260404T163500
 SUMMARY:[10:00-16:35] [BOOKED] Manchester City - Liverpool
 UID:job-12907@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/dD690UChx0uX9Zrmh6LCdgJuF_DNF4NoeT_9g0nY2h0
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/_oN7FfIwBIsmk2dtXof4k2DoONiuYVm_Z_dwCoiPaP8
 DESCRIPTION:Manchester City - Liverpool
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Manchester City - Liverpool<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/dD690UChx0uX9Zrmh6LCdgJuF_DNF4NoeT_9g0nY2h0">https://viaplaybooking.com/agenda/dD690UChx0uX9Zrmh6LCdgJuF_DNF4NoeT_9g0nY2h0</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Manchester City - Liverpool<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/_oN7FfIwBIsmk2dtXof4k2DoONiuYVm_Z_dwCoiPaP8">https://viaplaybooking.com/agenda/_oN7FfIwBIsmk2dtXof4k2DoONiuYVm_Z_dwCoiPaP8</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260406T163000
 DTEND;TZID=Europe/Stockholm:20260406T220500
 SUMMARY:[16:30-22:05] [BOOKED] ONSIDE
 UID:job-13132@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/VGeZSDlqAo2QfO-xGW2tcDb0iJlQOCDwwWgcVxg76hY
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/Ipp9iEogC9gpcKJSpO7DMeZxbxi3ykY_Aq6M5pf03fA
 DESCRIPTION:ONSIDE
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>ONSIDE<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/VGeZSDlqAo2QfO-xGW2tcDb0iJlQOCDwwWgcVxg76hY">https://viaplaybooking.com/agenda/VGeZSDlqAo2QfO-xGW2tcDb0iJlQOCDwwWgcVxg76hY</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>ONSIDE<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/Ipp9iEogC9gpcKJSpO7DMeZxbxi3ykY_Aq6M5pf03fA">https://viaplaybooking.com/agenda/Ipp9iEogC9gpcKJSpO7DMeZxbxi3ykY_Aq6M5pf03fA</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260407T180000
 DTEND;TZID=Europe/Stockholm:20260407T235900
 SUMMARY:[18:00-23:59] [BOOKED] UCL: Real Madrid - Bayern München
 UID:job-13199@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/FV0t9qjivbiLeoxUNt7EQvru7v3F3Vc84jURLQd9IlM
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/CCtwAf9QRNOYhaf3WebwGBIiA1M53CzppDGt7dBFYX4
 DESCRIPTION:UCL: Real Madrid - Bayern München
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Real Madrid - Bayern München<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/FV0t9qjivbiLeoxUNt7EQvru7v3F3Vc84jURLQd9IlM">https://viaplaybooking.com/agenda/FV0t9qjivbiLeoxUNt7EQvru7v3F3Vc84jURLQd9IlM</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Real Madrid - Bayern München<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/CCtwAf9QRNOYhaf3WebwGBIiA1M53CzppDGt7dBFYX4">https://viaplaybooking.com/agenda/CCtwAf9QRNOYhaf3WebwGBIiA1M53CzppDGt7dBFYX4</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260408T180000
 DTEND;TZID=Europe/Stockholm:20260408T235900
 SUMMARY:[18:00-23:59] [BOOKED] UCL: Paris Saint-Germain - Liverpool
 UID:job-13311@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/OGitXP0x5-6OajLTkMk3a7rnirFw7F7RGY1-UPhrkbI
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/SW6NAMOZ8yqfy21dGr1cGhaxytEvaV8Rui3qPxgJi1g
 DESCRIPTION:UCL: Paris Saint-Germain - Liverpool
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Paris Saint-Germain - Liverpool<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/OGitXP0x5-6OajLTkMk3a7rnirFw7F7RGY1-UPhrkbI">https://viaplaybooking.com/agenda/OGitXP0x5-6OajLTkMk3a7rnirFw7F7RGY1-UPhrkbI</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Paris Saint-Germain - Liverpool<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/SW6NAMOZ8yqfy21dGr1cGhaxytEvaV8Rui3qPxgJi1g">https://viaplaybooking.com/agenda/SW6NAMOZ8yqfy21dGr1cGhaxytEvaV8Rui3qPxgJi1g</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260411T100000
 DTEND;TZID=Europe/Stockholm:20260411T210500
 SUMMARY:[10:00-21:05] [BOOKED] Prime-studie: Arsenal - Bournemouth
 UID:job-13564@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/VHJe4yAbOT7bh8XJM20FhbCJKny3qjUix75amhURaW4
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/F3dZXgHXqo2OxepoRcnJhHUxzaYE_2GnKmUQ7grofF8
 DESCRIPTION:Prime-studie: Arsenal - Bournemouth
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Arsenal - Bournemouth<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/VHJe4yAbOT7bh8XJM20FhbCJKny3qjUix75amhURaW4">https://viaplaybooking.com/agenda/VHJe4yAbOT7bh8XJM20FhbCJKny3qjUix75amhURaW4</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Arsenal - Bournemouth<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/F3dZXgHXqo2OxepoRcnJhHUxzaYE_2GnKmUQ7grofF8">https://viaplaybooking.com/agenda/F3dZXgHXqo2OxepoRcnJhHUxzaYE_2GnKmUQ7grofF8</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260413T170000
 DTEND;TZID=Europe/Stockholm:20260414T000500
 SUMMARY:[17:00-00:05] [BOOKED] PL-studie: Manchester United - Leeds
 UID:job-13898@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/munA52hhCSgmew36UTi2VDSic_qMy1E2iurIdLHQb4E
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/LLC7VGh1uTJJGH-ckNnfKj1MGVDEQyDSsyHY3QYBHZQ
 DESCRIPTION:PL-studie: Manchester United - Leeds
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Manchester United - Leeds<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/munA52hhCSgmew36UTi2VDSic_qMy1E2iurIdLHQb4E">https://viaplaybooking.com/agenda/munA52hhCSgmew36UTi2VDSic_qMy1E2iurIdLHQb4E</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Manchester United - Leeds<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/LLC7VGh1uTJJGH-ckNnfKj1MGVDEQyDSsyHY3QYBHZQ">https://viaplaybooking.com/agenda/LLC7VGh1uTJJGH-ckNnfKj1MGVDEQyDSsyHY3QYBHZQ</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260414T180000
 DTEND;TZID=Europe/Stockholm:20260414T235900
 SUMMARY:[18:00-23:59] [BOOKED] UCL: Liverpool - Paris Saint-Germain
 UID:job-13983@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/DHA6A22jxaO_iuk44mmdjSUvNpNSybgt5jvESSdDA40
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/sL68-vTs_ktV4_jNBt0fTLbh9NcdrQdHvcEVPcUurUE
 DESCRIPTION:UCL: Liverpool - Paris Saint-Germain
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Liverpool - Paris Saint-Germain<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/DHA6A22jxaO_iuk44mmdjSUvNpNSybgt5jvESSdDA40">https://viaplaybooking.com/agenda/DHA6A22jxaO_iuk44mmdjSUvNpNSybgt5jvESSdDA40</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Liverpool - Paris Saint-Germain<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/sL68-vTs_ktV4_jNBt0fTLbh9NcdrQdHvcEVPcUurUE">https://viaplaybooking.com/agenda/sL68-vTs_ktV4_jNBt0fTLbh9NcdrQdHvcEVPcUurUE</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260415T130000
 DTEND;TZID=Europe/Stockholm:20260415T160000
 SUMMARY:[13:00-16:00] [BOOKED] TØFFE vs GRAVER
 UID:job-14064@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/nexylO9OXw6VrCfJdRSMnli4T3MsyTHUqLk8haVF_fc
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/-ODc1_uluy4Yuo49GJXuXCEqLrQP4NWYitwfaQloPUk
 DESCRIPTION:TØFFE vs GRAVER
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>TØFFE vs GRAVER<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/nexylO9OXw6VrCfJdRSMnli4T3MsyTHUqLk8haVF_fc">https://viaplaybooking.com/agenda/nexylO9OXw6VrCfJdRSMnli4T3MsyTHUqLk8haVF_fc</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>TØFFE vs GRAVER<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/-ODc1_uluy4Yuo49GJXuXCEqLrQP4NWYitwfaQloPUk">https://viaplaybooking.com/agenda/-ODc1_uluy4Yuo49GJXuXCEqLrQP4NWYitwfaQloPUk</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260415T180000
 DTEND;TZID=Europe/Stockholm:20260415T235900
 SUMMARY:[18:00-23:59] [BOOKED] UCL: Bayern München - Real Madrid
 UID:job-14088@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/rGv9WQft8hWcwvow2-sNWFrodaWbwG1iJhp4T5w5bYI
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/MxKM4P79l8Ls_XCvE_i2ZHB25rRHlpGHEFrJNasJlRw
 DESCRIPTION:UCL: Bayern München - Real Madrid
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Bayern München - Real Madrid<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/rGv9WQft8hWcwvow2-sNWFrodaWbwG1iJhp4T5w5bYI">https://viaplaybooking.com/agenda/rGv9WQft8hWcwvow2-sNWFrodaWbwG1iJhp4T5w5bYI</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Bayern München - Real Madrid<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/MxKM4P79l8Ls_XCvE_i2ZHB25rRHlpGHEFrJNasJlRw">https://viaplaybooking.com/agenda/MxKM4P79l8Ls_XCvE_i2ZHB25rRHlpGHEFrJNasJlRw</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260418T100000
 DTEND;TZID=Europe/Stockholm:20260418T183000
 SUMMARY:[10:00-18:30] [BOOKED] Prime-studie: Brentford - Fulham
 UID:job-14302@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/wQvTLnjUOCIR2kaXtU8-8D2n2MZ57C5y0wpsMuHqngw
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/9W-0x3tWMPPKtQR77htOAgp5vsmH6swSny6NYKqBAJ4
 DESCRIPTION:Prime-studie: Brentford - Fulham
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Brentford - Fulham<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/wQvTLnjUOCIR2kaXtU8-8D2n2MZ57C5y0wpsMuHqngw">https://viaplaybooking.com/agenda/wQvTLnjUOCIR2kaXtU8-8D2n2MZ57C5y0wpsMuHqngw</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Brentford - Fulham<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/9W-0x3tWMPPKtQR77htOAgp5vsmH6swSny6NYKqBAJ4">https://viaplaybooking.com/agenda/9W-0x3tWMPPKtQR77htOAgp5vsmH6swSny6NYKqBAJ4</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260418T100000
 DTEND;TZID=Europe/Stockholm:20260418T183000
 SUMMARY:[10:00-18:30] [BOOKED] Prime-studie: Brentford - Fulham
 UID:job-14302@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/8wqCeBkppxvO3wOIlpIIlvnHU8-yE7wfMoKN5fxQO6o
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/S-gsrOXLWjoeqXxlx9ghg-x154ZLf0qu34MyuDqY-Ek
 DESCRIPTION:Prime-studie: Brentford - Fulham
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Brentford - Fulham<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/8wqCeBkppxvO3wOIlpIIlvnHU8-yE7wfMoKN5fxQO6o">https://viaplaybooking.com/agenda/8wqCeBkppxvO3wOIlpIIlvnHU8-yE7wfMoKN5fxQO6o</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Brentford - Fulham<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/S-gsrOXLWjoeqXxlx9ghg-x154ZLf0qu34MyuDqY-Ek">https://viaplaybooking.com/agenda/S-gsrOXLWjoeqXxlx9ghg-x154ZLf0qu34MyuDqY-Ek</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260419T163000
 DTEND;TZID=Europe/Stockholm:20260419T220500
 SUMMARY:[16:30-22:05] [BOOKED] ONSIDE
 UID:job-14489@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/lLGbmAwTRsH6XJpMhXQSOdc2nO50crorgAe_NpnlHGo
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/8F4UVmFAHj4MgcuaoO1VU-8xsnq7OHqNTJnNI1uq3b4
 DESCRIPTION:ONSIDE
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>ONSIDE<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/lLGbmAwTRsH6XJpMhXQSOdc2nO50crorgAe_NpnlHGo">https://viaplaybooking.com/agenda/lLGbmAwTRsH6XJpMhXQSOdc2nO50crorgAe_NpnlHGo</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>ONSIDE<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/8F4UVmFAHj4MgcuaoO1VU-8xsnq7OHqNTJnNI1uq3b4">https://viaplaybooking.com/agenda/8F4UVmFAHj4MgcuaoO1VU-8xsnq7OHqNTJnNI1uq3b4</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260428T180000
 DTEND;TZID=Europe/Stockholm:20260428T235900
 SUMMARY:[18:00-23:59] [BOOKED] UCL: Paris Saint-Germain - Bayern München
 UID:job-15068@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/Nfb9E-kNIw1YdrH0n6LmYlEX5gt3Ny-Ghju3NUsJQI0
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/gRrzYJfF3BqlHdl0FwirsVUdT4f1Uy7W410yp0XAqC0
 DESCRIPTION:UCL: Paris Saint-Germain - Bayern München
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Paris Saint-Germain - Bayern München<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/Nfb9E-kNIw1YdrH0n6LmYlEX5gt3Ny-Ghju3NUsJQI0">https://viaplaybooking.com/agenda/Nfb9E-kNIw1YdrH0n6LmYlEX5gt3Ny-Ghju3NUsJQI0</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Paris Saint-Germain - Bayern München<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/gRrzYJfF3BqlHdl0FwirsVUdT4f1Uy7W410yp0XAqC0">https://viaplaybooking.com/agenda/gRrzYJfF3BqlHdl0FwirsVUdT4f1Uy7W410yp0XAqC0</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260429T180000
 DTEND;TZID=Europe/Stockholm:20260429T235900
 SUMMARY:[18:00-23:59] [BOOKED] UCL: Atletico Madrid - Arsenal
 UID:job-15158@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/hMZPg6iUBPKUBxr08lb6YbENYW8htnvrC5Iv4jFEQS8
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/P6d0f4NaWbdwX5wLDDIO1V4ICTcER4wJA_RQc2dlAws
 DESCRIPTION:UCL: Atletico Madrid - Arsenal
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Atletico Madrid - Arsenal<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/hMZPg6iUBPKUBxr08lb6YbENYW8htnvrC5Iv4jFEQS8">https://viaplaybooking.com/agenda/hMZPg6iUBPKUBxr08lb6YbENYW8htnvrC5Iv4jFEQS8</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Atletico Madrid - Arsenal<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/P6d0f4NaWbdwX5wLDDIO1V4ICTcER4wJA_RQc2dlAws">https://viaplaybooking.com/agenda/P6d0f4NaWbdwX5wLDDIO1V4ICTcER4wJA_RQc2dlAws</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260515T163000
 DTEND;TZID=Europe/Stockholm:20260515T233500
 SUMMARY:[16:30-23:35] [BOOKED] Tjekkiet - Danmark
 UID:job-16014@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/ZMJHKBEJA-OLpfu7tVMuJyHy_1z0EES8zVd5U_rxPHA
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/hVHmzzewD2R2dM3xC6icusL8DxD6G79xprmecK4WFxE
 DESCRIPTION:Tjekkiet - Danmark
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Tjekkiet - Danmark<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/ZMJHKBEJA-OLpfu7tVMuJyHy_1z0EES8zVd5U_rxPHA">https://viaplaybooking.com/agenda/ZMJHKBEJA-OLpfu7tVMuJyHy_1z0EES8zVd5U_rxPHA</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Tjekkiet - Danmark<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/hVHmzzewD2R2dM3xC6icusL8DxD6G79xprmecK4WFxE">https://viaplaybooking.com/agenda/hVHmzzewD2R2dM3xC6icusL8DxD6G79xprmecK4WFxE</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260517T130000
 DTEND;TZID=Europe/Stockholm:20260517T193500
 SUMMARY:[13:00-19:35] [BOOKED] Danmark - Sverige
 UID:job-16106@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/inil9doCRZR0zWZYRILrI4PpFe0Y0nMLoylTs-mjjgI
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/gkpCjXS-Gkite1_RHV_KoPJaJ7NKFTENDnFAya76Qb8
 DESCRIPTION:Danmark - Sverige
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Danmark - Sverige<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/inil9doCRZR0zWZYRILrI4PpFe0Y0nMLoylTs-mjjgI">https://viaplaybooking.com/agenda/inil9doCRZR0zWZYRILrI4PpFe0Y0nMLoylTs-mjjgI</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Danmark - Sverige<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/gkpCjXS-Gkite1_RHV_KoPJaJ7NKFTENDnFAya76Qb8">https://viaplaybooking.com/agenda/gkpCjXS-Gkite1_RHV_KoPJaJ7NKFTENDnFAya76Qb8</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260518T130000
 DTEND;TZID=Europe/Stockholm:20260518T193500
 SUMMARY:[13:00-19:35] [BOOKED] Canada - Danmark 
 UID:job-16158@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/fvyI8BDFu37jfyOlQqevrIyKCJJmMWvkjsgjU8uPQHc
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/7DyN1TIEOWzObYmaVXKe9tlwXEnaVW6Mp4quHfdm3eI
 DESCRIPTION:Canada - Danmark 
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Canada - Danmark <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/fvyI8BDFu37jfyOlQqevrIyKCJJmMWvkjsgjU8uPQHc">https://viaplaybooking.com/agenda/fvyI8BDFu37jfyOlQqevrIyKCJJmMWvkjsgjU8uPQHc</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Canada - Danmark <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/7DyN1TIEOWzObYmaVXKe9tlwXEnaVW6Mp4quHfdm3eI">https://viaplaybooking.com/agenda/7DyN1TIEOWzObYmaVXKe9tlwXEnaVW6Mp4quHfdm3eI</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260523T100000
 DTEND;TZID=Europe/Stockholm:20260523T153500
 SUMMARY:[10:00-15:35] [BOOKED] Danmark - Slovenien 
 UID:job-16399@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/M2UOvxZVue5Zki2K-s0lyvzZV359XrwCbvkWN2cM8Zc
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/YSAZpDkD7CvBvO8HQZcUstbo7qFGlbzYKrWaEhEagWA
 DESCRIPTION:Danmark - Slovenien 
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Danmark - Slovenien <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/M2UOvxZVue5Zki2K-s0lyvzZV359XrwCbvkWN2cM8Zc">https://viaplaybooking.com/agenda/M2UOvxZVue5Zki2K-s0lyvzZV359XrwCbvkWN2cM8Zc</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Danmark - Slovenien <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/YSAZpDkD7CvBvO8HQZcUstbo7qFGlbzYKrWaEhEagWA">https://viaplaybooking.com/agenda/YSAZpDkD7CvBvO8HQZcUstbo7qFGlbzYKrWaEhEagWA</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260523T100000
 DTEND;TZID=Europe/Stockholm:20260523T153500
 SUMMARY:[10:00-15:35] [BOOKED] Danmark - Slovenien 
 UID:job-16399@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/sszNiLWey6CSVPTQAwPay5BJ1ZnHBIxBUU_ZPbw2W8s
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/YY2okmm878OfGWJRLyYAH1lK-BPGc3IpkKon2JWFF9o
 DESCRIPTION:Danmark - Slovenien 
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Danmark - Slovenien <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/sszNiLWey6CSVPTQAwPay5BJ1ZnHBIxBUU_ZPbw2W8s">https://viaplaybooking.com/agenda/sszNiLWey6CSVPTQAwPay5BJ1ZnHBIxBUU_ZPbw2W8s</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Danmark - Slovenien <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/YY2okmm878OfGWJRLyYAH1lK-BPGc3IpkKon2JWFF9o">https://viaplaybooking.com/agenda/YY2okmm878OfGWJRLyYAH1lK-BPGc3IpkKon2JWFF9o</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260524T130000
 DTEND;TZID=Europe/Stockholm:20260524T193500
 SUMMARY:[13:00-19:35] [BOOKED] Danmark - Italien 
 UID:job-16533@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/gPLijsb7QHdOSgPfZc74b7bPGWV_t7urQLRohhP3kbo
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/j2JmUfxTGqkyNXK8wIQNH1YD4tJoGkMCeTsxC7FpqTM
 DESCRIPTION:Danmark - Italien 
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Danmark - Italien <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/gPLijsb7QHdOSgPfZc74b7bPGWV_t7urQLRohhP3kbo">https://viaplaybooking.com/agenda/gPLijsb7QHdOSgPfZc74b7bPGWV_t7urQLRohhP3kbo</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Danmark - Italien <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/j2JmUfxTGqkyNXK8wIQNH1YD4tJoGkMCeTsxC7FpqTM">https://viaplaybooking.com/agenda/j2JmUfxTGqkyNXK8wIQNH1YD4tJoGkMCeTsxC7FpqTM</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260524T130000
 DTEND;TZID=Europe/Stockholm:20260524T193500
 SUMMARY:[13:00-19:35] [BOOKED] Danmark - Italien 
 UID:job-16533@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/moDzVohxGE7vxengXLa2KhVpeGV2tkzIA8socUhE8iw
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/MrvJEivdf0tkLZIeGGq2heSUSggwzJtzYylcEzVJeDg
 DESCRIPTION:Danmark - Italien 
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Danmark - Italien <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/moDzVohxGE7vxengXLa2KhVpeGV2tkzIA8socUhE8iw">https://viaplaybooking.com/agenda/moDzVohxGE7vxengXLa2KhVpeGV2tkzIA8socUhE8iw</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Danmark - Italien <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/MrvJEivdf0tkLZIeGGq2heSUSggwzJtzYylcEzVJeDg">https://viaplaybooking.com/agenda/MrvJEivdf0tkLZIeGGq2heSUSggwzJtzYylcEzVJeDg</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260524T183000
 DTEND;TZID=Europe/Stockholm:20260525T010000
 SUMMARY:[18:30-01:00] [BOOKED] Grand Prix du Canada - Race
 UID:job-16587@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/lz9aaML-kQV8UkoanBB7HaqF2-HTjxJOoMwnWexVICQ
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/a-WvLKHsax0Bk9EWsJmAIZ5OJhJF7BKovcwYB5rOkr8
 DESCRIPTION:Grand Prix du Canada - Race
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Grand Prix du Canada - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/lz9aaML-kQV8UkoanBB7HaqF2-HTjxJOoMwnWexVICQ">https://viaplaybooking.com/agenda/lz9aaML-kQV8UkoanBB7HaqF2-HTjxJOoMwnWexVICQ</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Grand Prix du Canada - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/a-WvLKHsax0Bk9EWsJmAIZ5OJhJF7BKovcwYB5rOkr8">https://viaplaybooking.com/agenda/a-WvLKHsax0Bk9EWsJmAIZ5OJhJF7BKovcwYB5rOkr8</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260607T110000
 DTEND;TZID=Europe/Stockholm:20260607T180000
 SUMMARY:[11:00-18:00] [BOOKED] Grand Prix De Monaco - Race
 UID:job-17213@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/QvTUf69H_ZDO3ftfji8Txh6jL_aXTEuINNAOxUMLTfo
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/hLnVPUOGwZUVXBiRGymy_TKDu-hhhj2WKy6TXn10zds
 DESCRIPTION:Grand Prix De Monaco - Race
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Grand Prix De Monaco - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/QvTUf69H_ZDO3ftfji8Txh6jL_aXTEuINNAOxUMLTfo">https://viaplaybooking.com/agenda/QvTUf69H_ZDO3ftfji8Txh6jL_aXTEuINNAOxUMLTfo</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Grand Prix De Monaco - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/hLnVPUOGwZUVXBiRGymy_TKDu-hhhj2WKy6TXn10zds">https://viaplaybooking.com/agenda/hLnVPUOGwZUVXBiRGymy_TKDu-hhhj2WKy6TXn10zds</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260613T113000
 DTEND;TZID=Europe/Stockholm:20260613T180000
 SUMMARY:[11:30-18:00] [BOOKED] Gran Premio de España - 1st Qualification
 UID:job-17429@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/Kks6PXj1y9hthiTJ_3mtUrYs__T7g_1t61dPCXVd0QA
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/oD6NkoW0CLVo9k21qyjiRkhxB09lcM1JW4zaBd6LTMM
 DESCRIPTION:Gran Premio de España - 1st Qualification
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Gran Premio de España - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/Kks6PXj1y9hthiTJ_3mtUrYs__T7g_1t61dPCXVd0QA">https://viaplaybooking.com/agenda/Kks6PXj1y9hthiTJ_3mtUrYs__T7g_1t61dPCXVd0QA</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Gran Premio de España - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/oD6NkoW0CLVo9k21qyjiRkhxB09lcM1JW4zaBd6LTMM">https://viaplaybooking.com/agenda/oD6NkoW0CLVo9k21qyjiRkhxB09lcM1JW4zaBd6LTMM</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260627T130000
 DTEND;TZID=Europe/Stockholm:20260627T180000
 SUMMARY:[13:00-18:00] [BOOKED] Austrian Grand Prix - 1st Qualification
 UID:job-17624@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/WZ-4OqtQ8CxXFSiyI5mm8BdO5hQii6S8sNIU0fuEgHU
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/ezPZtbWff2jCT376Qb4nMKbpSk7-g53HfYrmUNDZvxQ
 DESCRIPTION:Austrian Grand Prix - 1st Qualification
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Austrian Grand Prix - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/WZ-4OqtQ8CxXFSiyI5mm8BdO5hQii6S8sNIU0fuEgHU">https://viaplaybooking.com/agenda/WZ-4OqtQ8CxXFSiyI5mm8BdO5hQii6S8sNIU0fuEgHU</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Austrian Grand Prix - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/ezPZtbWff2jCT376Qb4nMKbpSk7-g53HfYrmUNDZvxQ">https://viaplaybooking.com/agenda/ezPZtbWff2jCT376Qb4nMKbpSk7-g53HfYrmUNDZvxQ</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260628T113000
 DTEND;TZID=Europe/Stockholm:20260628T180000
 SUMMARY:[11:30-18:00] [BOOKED] Austrian Grand Prix - Race
 UID:job-17648@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/e3S3VTdzKZRxxRZDJ2wR9XM_QQ6J1FNWBN-WpCkIFYs
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/M4oGgRa1C4c1jQhMO1HUwBLZnCeAtX4PkjeUNkRUhGQ
 DESCRIPTION:Austrian Grand Prix - Race
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Austrian Grand Prix - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/e3S3VTdzKZRxxRZDJ2wR9XM_QQ6J1FNWBN-WpCkIFYs">https://viaplaybooking.com/agenda/e3S3VTdzKZRxxRZDJ2wR9XM_QQ6J1FNWBN-WpCkIFYs</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Austrian Grand Prix - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/M4oGgRa1C4c1jQhMO1HUwBLZnCeAtX4PkjeUNkRUhGQ">https://viaplaybooking.com/agenda/M4oGgRa1C4c1jQhMO1HUwBLZnCeAtX4PkjeUNkRUhGQ</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260704T110000
 DTEND;TZID=Europe/Stockholm:20260704T190000
 SUMMARY:[11:00-19:00] [BOOKED] British Grand Prix - 1st Qualification
 UID:job-17762@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/aVpsJX_vD38-Sbaaco7CO8AwP-XeqhO32OAQBWLu1Gk
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/t8OiP0IX-00vGJdU018cUaO5tgIfDCD97itWgbNAIVU
 DESCRIPTION:British Grand Prix - 1st Qualification
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>British Grand Prix - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/aVpsJX_vD38-Sbaaco7CO8AwP-XeqhO32OAQBWLu1Gk">https://viaplaybooking.com/agenda/aVpsJX_vD38-Sbaaco7CO8AwP-XeqhO32OAQBWLu1Gk</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>British Grand Prix - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/t8OiP0IX-00vGJdU018cUaO5tgIfDCD97itWgbNAIVU">https://viaplaybooking.com/agenda/t8OiP0IX-00vGJdU018cUaO5tgIfDCD97itWgbNAIVU</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260705T130000
 DTEND;TZID=Europe/Stockholm:20260705T190000
 SUMMARY:[13:00-19:00] [BOOKED] British Grand Prix - Race
 UID:job-17791@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/jzY6gsmHs3ZabKpXaUXSg1yzXm6DMBMy07ksLKWtYQ4
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/Fc1wKMMCaR1t89WmY2IVe2GkSEJkP54xxg2xWTMlmKA
 DESCRIPTION:British Grand Prix - Race
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>British Grand Prix - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/jzY6gsmHs3ZabKpXaUXSg1yzXm6DMBMy07ksLKWtYQ4">https://viaplaybooking.com/agenda/jzY6gsmHs3ZabKpXaUXSg1yzXm6DMBMy07ksLKWtYQ4</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>British Grand Prix - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/Fc1wKMMCaR1t89WmY2IVe2GkSEJkP54xxg2xWTMlmKA">https://viaplaybooking.com/agenda/Fc1wKMMCaR1t89WmY2IVe2GkSEJkP54xxg2xWTMlmKA</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260718T133000
 DTEND;TZID=Europe/Stockholm:20260718T180000
 SUMMARY:[13:30-18:00] [BOOKED] Belgian Grand Prix - 1st Qualification
 UID:job-17898@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/DTH5lS6voP221zUdq6AWhRgt2aehA0ytIOjyn1F8aeE
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/6oHm0RzQ8p_dKjHQV8EjtxtkIZSguQdNH8ofwvWEVEA
 DESCRIPTION:Belgian Grand Prix - 1st Qualification
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Belgian Grand Prix - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/DTH5lS6voP221zUdq6AWhRgt2aehA0ytIOjyn1F8aeE">https://viaplaybooking.com/agenda/DTH5lS6voP221zUdq6AWhRgt2aehA0ytIOjyn1F8aeE</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Belgian Grand Prix - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/6oHm0RzQ8p_dKjHQV8EjtxtkIZSguQdNH8ofwvWEVEA">https://viaplaybooking.com/agenda/6oHm0RzQ8p_dKjHQV8EjtxtkIZSguQdNH8ofwvWEVEA</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260719T123000
 DTEND;TZID=Europe/Stockholm:20260719T180000
 SUMMARY:[12:30-18:00] [BOOKED] Belgian Grand Prix - Race
 UID:job-17941@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/GyWFMct_3Sj1VJ0NWrJGXacJLhzIAE0msoDB1lxZ10I
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/8gxSzrKXY0RXaz4BtKbRALI5vlVCwTRrQna8UWF0pE8
 DESCRIPTION:Belgian Grand Prix - Race
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Belgian Grand Prix - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/GyWFMct_3Sj1VJ0NWrJGXacJLhzIAE0msoDB1lxZ10I">https://viaplaybooking.com/agenda/GyWFMct_3Sj1VJ0NWrJGXacJLhzIAE0msoDB1lxZ10I</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Belgian Grand Prix - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/8gxSzrKXY0RXaz4BtKbRALI5vlVCwTRrQna8UWF0pE8">https://viaplaybooking.com/agenda/8gxSzrKXY0RXaz4BtKbRALI5vlVCwTRrQna8UWF0pE8</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260320T090000
 DTEND;TZID=Europe/Stockholm:20260320T150000
 SUMMARY:[09:00-15:00] [BOOKED] SoMe quiz\, opbygning
 UID:job-20520@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/OCL8-ICK6XBclilYGlk2E2Syv4b9riAo_SrqhD_Ne5A
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/hhmu47eZkXp1FvjeHjc6_86k_7jyyw9t0dA-z3IlKbk
 DESCRIPTION:SoMe quiz\, opbygning
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>SoMe quiz\, opbygning<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/OCL8-ICK6XBclilYGlk2E2Syv4b9riAo_SrqhD_Ne5A">https://viaplaybooking.com/agenda/OCL8-ICK6XBclilYGlk2E2Syv4b9riAo_SrqhD_Ne5A</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>SoMe quiz\, opbygning<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/hhmu47eZkXp1FvjeHjc6_86k_7jyyw9t0dA-z3IlKbk">https://viaplaybooking.com/agenda/hhmu47eZkXp1FvjeHjc6_86k_7jyyw9t0dA-z3IlKbk</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260323T090000
 DTEND;TZID=Europe/Stockholm:20260323T170000
 SUMMARY:[09:00-17:00] [BOOKED] SoMe quiz\, opbygning + DUMMY
 UID:job-20563@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/1ReGVY-6Bn4L-gDUcv5e_eDpAKozwR71uerYCV29qXg
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/Hjvp7ZNZ3qdskRV7BOLswsBQmeLS1Q5mSgzcnlaJaOY
 DESCRIPTION:SoMe quiz\, opbygning + DUMMY
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>SoMe quiz\, opbygning + DUMMY<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/1ReGVY-6Bn4L-gDUcv5e_eDpAKozwR71uerYCV29qXg">https://viaplaybooking.com/agenda/1ReGVY-6Bn4L-gDUcv5e_eDpAKozwR71uerYCV29qXg</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>SoMe quiz\, opbygning + DUMMY<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/Hjvp7ZNZ3qdskRV7BOLswsBQmeLS1Q5mSgzcnlaJaOY">https://viaplaybooking.com/agenda/Hjvp7ZNZ3qdskRV7BOLswsBQmeLS1Q5mSgzcnlaJaOY</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260324T090000
 DTEND;TZID=Europe/Stockholm:20260324T163000
 SUMMARY:[09:00-16:30] [BOOKED] SoMe quiz\, 2 udsendelser
 UID:job-20588@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/nmfsc_8ki8eOR-6g8P7pgK5kGeaC25PKjc45eOAVhnw
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/19gMqwVtzfRVLgGVAVCPDcFZtqz8AlnaEqUsrumlSCM
 DESCRIPTION:SoMe quiz\, 2 udsendelser
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>SoMe quiz\, 2 udsendelser<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/nmfsc_8ki8eOR-6g8P7pgK5kGeaC25PKjc45eOAVhnw">https://viaplaybooking.com/agenda/nmfsc_8ki8eOR-6g8P7pgK5kGeaC25PKjc45eOAVhnw</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>SoMe quiz\, 2 udsendelser<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/19gMqwVtzfRVLgGVAVCPDcFZtqz8AlnaEqUsrumlSCM">https://viaplaybooking.com/agenda/19gMqwVtzfRVLgGVAVCPDcFZtqz8AlnaEqUsrumlSCM</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260325T090000
 DTEND;TZID=Europe/Stockholm:20260325T180000
 SUMMARY:[09:00-18:00] [BOOKED] SoMe quiz\, 3 udsendelser
 UID:job-20608@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/z6A556JpejU9jr3Fd27-CF2Gst9rpmFV6Uy2D-d6V4A
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/GFwQA-03Mu6hwKNtVUi7-gSPLLOKy8UjApwvIKc_XoU
 DESCRIPTION:SoMe quiz\, 3 udsendelser
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>SoMe quiz\, 3 udsendelser<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/z6A556JpejU9jr3Fd27-CF2Gst9rpmFV6Uy2D-d6V4A">https://viaplaybooking.com/agenda/z6A556JpejU9jr3Fd27-CF2Gst9rpmFV6Uy2D-d6V4A</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>SoMe quiz\, 3 udsendelser<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/GFwQA-03Mu6hwKNtVUi7-gSPLLOKy8UjApwvIKc_XoU">https://viaplaybooking.com/agenda/GFwQA-03Mu6hwKNtVUi7-gSPLLOKy8UjApwvIKc_XoU</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260326T090000
 DTEND;TZID=Europe/Stockholm:20260326T180000
 SUMMARY:[09:00-18:00] [BOOKED] SoMe quiz\, 3 udsendelser
 UID:job-20635@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/qaFnw21EQj777ucyo9j_NQgfBXYy3DK6a5k1jA2fdEM
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/roQ157cqafbqEP-TAbE2X_6oABg9XHI72P82aI5jyGE
 DESCRIPTION:SoMe quiz\, 3 udsendelser
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>SoMe quiz\, 3 udsendelser<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/qaFnw21EQj777ucyo9j_NQgfBXYy3DK6a5k1jA2fdEM">https://viaplaybooking.com/agenda/qaFnw21EQj777ucyo9j_NQgfBXYy3DK6a5k1jA2fdEM</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>SoMe quiz\, 3 udsendelser<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/roQ157cqafbqEP-TAbE2X_6oABg9XHI72P82aI5jyGE">https://viaplaybooking.com/agenda/roQ157cqafbqEP-TAbE2X_6oABg9XHI72P82aI5jyGE</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260327T090000
 DTEND;TZID=Europe/Stockholm:20260327T160000
 SUMMARY:[09:00-16:00] [BOOKED] SoMe quiz\, 3 udsendelser
 UID:job-20662@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/JMY1Rfc021sr3ay_rOyprEWiANfPJlvj4HzL9vEXWzc
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/jyPkTSkI7AiYM0HUxNKHtKJ1CMXSNLMspiUokUDfLro
 DESCRIPTION:SoMe quiz\, 3 udsendelser
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>SoMe quiz\, 3 udsendelser<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/JMY1Rfc021sr3ay_rOyprEWiANfPJlvj4HzL9vEXWzc">https://viaplaybooking.com/agenda/JMY1Rfc021sr3ay_rOyprEWiANfPJlvj4HzL9vEXWzc</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>SoMe quiz\, 3 udsendelser<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/jyPkTSkI7AiYM0HUxNKHtKJ1CMXSNLMspiUokUDfLro">https://viaplaybooking.com/agenda/jyPkTSkI7AiYM0HUxNKHtKJ1CMXSNLMspiUokUDfLro</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260421T070000
 DTEND;TZID=Europe/Stockholm:20260421T170000
 SUMMARY:[07:00-17:00] [BOOKED] Paradise Talkshow
 UID:job-20848@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/cY99lUYrYQX9p_un2SAs0c3zvCAclhgQwGo_iV-2DP4
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/YFQQdHYlqAG809sH6m9ddRWbBq2vDn4CX9BDN2czmnE
 DESCRIPTION:Paradise Talkshow
 
 Role: Foto Studio
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Paradise Talkshow<br/><br/>Role: Foto Studio<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/cY99lUYrYQX9p_un2SAs0c3zvCAclhgQwGo_iV-2DP4">https://viaplaybooking.com/agenda/cY99lUYrYQX9p_un2SAs0c3zvCAclhgQwGo_iV-2DP4</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Paradise Talkshow<br/><br/>Role: Foto Studio<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/YFQQdHYlqAG809sH6m9ddRWbBq2vDn4CX9BDN2czmnE">https://viaplaybooking.com/agenda/YFQQdHYlqAG809sH6m9ddRWbBq2vDn4CX9BDN2czmnE</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260421T070000
 DTEND;TZID=Europe/Stockholm:20260421T170000
 SUMMARY:[07:00-17:00] [BOOKED] Paradise Talkshow
 UID:job-20848@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/3h5HDpjtqI3tUparljPvvXiqaNnY_nG_GgIfjHxhlLk
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/LiKTREiTKk5ieetMO06Cv9rFr6t7QnjdsX7tQ-HIPKY
 DESCRIPTION:Paradise Talkshow
 
 Role: Foto Studio
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Paradise Talkshow<br/><br/>Role: Foto Studio<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/3h5HDpjtqI3tUparljPvvXiqaNnY_nG_GgIfjHxhlLk">https://viaplaybooking.com/agenda/3h5HDpjtqI3tUparljPvvXiqaNnY_nG_GgIfjHxhlLk</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Paradise Talkshow<br/><br/>Role: Foto Studio<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/LiKTREiTKk5ieetMO06Cv9rFr6t7QnjdsX7tQ-HIPKY">https://viaplaybooking.com/agenda/LiKTREiTKk5ieetMO06Cv9rFr6t7QnjdsX7tQ-HIPKY</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260506T180000
 DTEND;TZID=Europe/Stockholm:20260506T235900
 SUMMARY:[18:00-23:59] [BOOKED] UCL: Bayern München - Paris Saint-Germain
 UID:job-22803@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/f2Y5FxbyhejRnz9_xWdZ323w7KdCiXUuLtG3dbmWGFY
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/uuClwwgTRh8Gz3jilbJ2Fb1RRhnP1l0mC3nu6VTIaZI
 DESCRIPTION:UCL: Bayern München - Paris Saint-Germain
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Bayern München - Paris Saint-Germain<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/f2Y5FxbyhejRnz9_xWdZ323w7KdCiXUuLtG3dbmWGFY">https://viaplaybooking.com/agenda/f2Y5FxbyhejRnz9_xWdZ323w7KdCiXUuLtG3dbmWGFY</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>UCL: Bayern München - Paris Saint-Germain<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/uuClwwgTRh8Gz3jilbJ2Fb1RRhnP1l0mC3nu6VTIaZI">https://viaplaybooking.com/agenda/uuClwwgTRh8Gz3jilbJ2Fb1RRhnP1l0mC3nu6VTIaZI</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260524T173000
 DTEND;TZID=Europe/Stockholm:20260525T010000
 SUMMARY:[17:30-01:00] [BOOKED] Grand Prix du Canada - Race
 UID:job-23252@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/LNiy7d9sEA1ACaXqnS4v4ksmAbDhuqj7HBxWP9doKHw
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/0klXxsNobHbz6JgtEkkx6DLZwBm_TVP0NGAxzlw09Cg
 DESCRIPTION:Grand Prix du Canada - Race
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Grand Prix du Canada - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/LNiy7d9sEA1ACaXqnS4v4ksmAbDhuqj7HBxWP9doKHw">https://viaplaybooking.com/agenda/LNiy7d9sEA1ACaXqnS4v4ksmAbDhuqj7HBxWP9doKHw</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Grand Prix du Canada - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/0klXxsNobHbz6JgtEkkx6DLZwBm_TVP0NGAxzlw09Cg">https://viaplaybooking.com/agenda/0klXxsNobHbz6JgtEkkx6DLZwBm_TVP0NGAxzlw09Cg</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260417T100000
 DTEND;TZID=Europe/Stockholm:20260417T140000
 SUMMARY:[10:00-14:00] [BOOKED] BST test\, afvikl. 2
 UID:job-23513@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/3JufOqBNvFcTq1It_A4AzOtwsqFHvR_IoT71uw_qY_Q
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/1jOy28D8X3HN7bTnThv1hu3EUWKP_dxPh-tCXyci6_8
 DESCRIPTION:BST test\, afvikl. 2
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>BST test\, afvikl. 2<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/3JufOqBNvFcTq1It_A4AzOtwsqFHvR_IoT71uw_qY_Q">https://viaplaybooking.com/agenda/3JufOqBNvFcTq1It_A4AzOtwsqFHvR_IoT71uw_qY_Q</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>BST test\, afvikl. 2<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/1jOy28D8X3HN7bTnThv1hu3EUWKP_dxPh-tCXyci6_8">https://viaplaybooking.com/agenda/1jOy28D8X3HN7bTnThv1hu3EUWKP_dxPh-tCXyci6_8</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260503T165000
 DTEND;TZID=Europe/Stockholm:20260503T223500
 SUMMARY:[16:50-22:35] [BOOKED] Prime-studie: Aston Villa - Tottenham MOVED TO SUNDAY 20.00
 UID:job-23671@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/bcLSJrTRQLrwbWWTuw4JX6qIIHoueJeY0tC2lARC0bY
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/EiTRjZiLep2hljekQ2ARXzpULYhU8JSEgxwe6bpeggo
 DESCRIPTION:Prime-studie: Aston Villa - Tottenham MOVED TO SUNDAY 20.00
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Aston Villa - Tottenham MOVED TO SUNDAY 20.00<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/bcLSJrTRQLrwbWWTuw4JX6qIIHoueJeY0tC2lARC0bY">https://viaplaybooking.com/agenda/bcLSJrTRQLrwbWWTuw4JX6qIIHoueJeY0tC2lARC0bY</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Aston Villa - Tottenham MOVED TO SUNDAY 20.00<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/EiTRjZiLep2hljekQ2ARXzpULYhU8JSEgxwe6bpeggo">https://viaplaybooking.com/agenda/EiTRjZiLep2hljekQ2ARXzpULYhU8JSEgxwe6bpeggo</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260503T165000
 DTEND;TZID=Europe/Stockholm:20260503T223500
 SUMMARY:[16:50-22:35] [BOOKED] Prime-studie: Aston Villa - Tottenham MOVED TO SUNDAY 20.00
 UID:job-23671@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/cgO_-43nDb3JgRccSUE8RbwoUMt5TR17_AUIoTp3lUY
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/RSPsXSrYoFTpqb0BG9d2-NLsnDn6wHcoRrBdhOTYqEE
 DESCRIPTION:Prime-studie: Aston Villa - Tottenham MOVED TO SUNDAY 20.00
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Aston Villa - Tottenham MOVED TO SUNDAY 20.00<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/cgO_-43nDb3JgRccSUE8RbwoUMt5TR17_AUIoTp3lUY">https://viaplaybooking.com/agenda/cgO_-43nDb3JgRccSUE8RbwoUMt5TR17_AUIoTp3lUY</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Aston Villa - Tottenham MOVED TO SUNDAY 20.00<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/RSPsXSrYoFTpqb0BG9d2-NLsnDn6wHcoRrBdhOTYqEE">https://viaplaybooking.com/agenda/RSPsXSrYoFTpqb0BG9d2-NLsnDn6wHcoRrBdhOTYqEE</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260422T090000
 DTEND;TZID=Europe/Stockholm:20260422T120000
 SUMMARY:[09:00-12:00] [BOOKED] TØFFE vs GRAVER (Live on Tape)
 UID:job-24071@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/bjK7EvLckO_ynBJy9Cy3GlH64o9hNaqfgxK1PTBzq_E
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/uYczZcHowp-OobyhXeczb5HkmSHiRr91YTDpBsNRdiQ
 DESCRIPTION:TØFFE vs GRAVER (Live on Tape)
 
 Role: Foto Studio
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>TØFFE vs GRAVER (Live on Tape)<br/><br/>Role: Foto Studio<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/bjK7EvLckO_ynBJy9Cy3GlH64o9hNaqfgxK1PTBzq_E">https://viaplaybooking.com/agenda/bjK7EvLckO_ynBJy9Cy3GlH64o9hNaqfgxK1PTBzq_E</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>TØFFE vs GRAVER (Live on Tape)<br/><br/>Role: Foto Studio<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/uYczZcHowp-OobyhXeczb5HkmSHiRr91YTDpBsNRdiQ">https://viaplaybooking.com/agenda/uYczZcHowp-OobyhXeczb5HkmSHiRr91YTDpBsNRdiQ</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260509T101500
 DTEND;TZID=Europe/Stockholm:20260509T210500
 SUMMARY:[10:15-21:05] [BOOKED] Prime-studie: Liverpool - Chelsea
 UID:job-24080@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/gXyfm9RMFXj-KPI9i8vGOcYhes88m7mcgOiO93LcDlI
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/aH55cZZNQaL_qCKpn9WeJYQVY75jPTb-8pYmgFOrbj0
 DESCRIPTION:Prime-studie: Liverpool - Chelsea
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Liverpool - Chelsea<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/gXyfm9RMFXj-KPI9i8vGOcYhes88m7mcgOiO93LcDlI">https://viaplaybooking.com/agenda/gXyfm9RMFXj-KPI9i8vGOcYhes88m7mcgOiO93LcDlI</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Prime-studie: Liverpool - Chelsea<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/aH55cZZNQaL_qCKpn9WeJYQVY75jPTb-8pYmgFOrbj0">https://viaplaybooking.com/agenda/aH55cZZNQaL_qCKpn9WeJYQVY75jPTb-8pYmgFOrbj0</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260428T103000
 DTEND;TZID=Europe/Stockholm:20260428T153000
 SUMMARY:[10:30-15:30] [BOOKED] Tøffe vs Graver ( Live on Tape)
 UID:job-24280@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/vCsYmAT-onNEY8mpWAxs6eqyh5WQgRm-NiL3ebYhyXw
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/gXGpubSO_yhW0MVbO2vyF74GRRuqWH1cwinGO6acpmY
 DESCRIPTION:Tøffe vs Graver ( Live on Tape)
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Tøffe vs Graver ( Live on Tape)<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/vCsYmAT-onNEY8mpWAxs6eqyh5WQgRm-NiL3ebYhyXw">https://viaplaybooking.com/agenda/vCsYmAT-onNEY8mpWAxs6eqyh5WQgRm-NiL3ebYhyXw</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Tøffe vs Graver ( Live on Tape)<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/gXGpubSO_yhW0MVbO2vyF74GRRuqWH1cwinGO6acpmY">https://viaplaybooking.com/agenda/gXGpubSO_yhW0MVbO2vyF74GRRuqWH1cwinGO6acpmY</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260511T180000
 DTEND;TZID=Europe/Stockholm:20260511T233000
 SUMMARY:[18:00-23:30] [BOOKED] PL-studie: Tottenham - Leeds 
 UID:job-25107@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/r1klHv3p8S5in7bPFEcJ2ngDVX1pGH6p7ujHKOnLIRc
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/c4RDlTy2HIByt8cFGVUnR7BfRIXCrzEUis86k0uXLOE
 DESCRIPTION:PL-studie: Tottenham - Leeds 
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Tottenham - Leeds <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/r1klHv3p8S5in7bPFEcJ2ngDVX1pGH6p7ujHKOnLIRc">https://viaplaybooking.com/agenda/r1klHv3p8S5in7bPFEcJ2ngDVX1pGH6p7ujHKOnLIRc</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>PL-studie: Tottenham - Leeds <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/c4RDlTy2HIByt8cFGVUnR7BfRIXCrzEUis86k0uXLOE">https://viaplaybooking.com/agenda/c4RDlTy2HIByt8cFGVUnR7BfRIXCrzEUis86k0uXLOE</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260513T140000
 DTEND;TZID=Europe/Stockholm:20260513T200000
 SUMMARY:[14:00-20:00] [BOOKED] FØR FINALEN 
 UID:job-26011@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/kHC-CBvVnvZaAsEl8Okbjsr6aLIEijcqA4k0HaiHl04
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/7QM80oxnrSx5YkIBIN_wW3jOlaXjBR7CHLpZzFlF1c0
 DESCRIPTION:FØR FINALEN 
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>FØR FINALEN <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/kHC-CBvVnvZaAsEl8Okbjsr6aLIEijcqA4k0HaiHl04">https://viaplaybooking.com/agenda/kHC-CBvVnvZaAsEl8Okbjsr6aLIEijcqA4k0HaiHl04</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>FØR FINALEN <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/7QM80oxnrSx5YkIBIN_wW3jOlaXjBR7CHLpZzFlF1c0">https://viaplaybooking.com/agenda/7QM80oxnrSx5YkIBIN_wW3jOlaXjBR7CHLpZzFlF1c0</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260516T120000
 DTEND;TZID=Europe/Stockholm:20260517T190500
 SUMMARY:[12:00-19:05] [BOOKED] Finale: Chelsea - Manchester City 
 UID:job-26182@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/kELfAr2ZKs4PLREu2D5pwr_-l6ZGJ4NpCm2Uuib2d4Q
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/moNYPeuKGhRnm5RGoSCn92khnFigyvwqe-FmUi_xVI0
 DESCRIPTION:Finale: Chelsea - Manchester City 
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Finale: Chelsea - Manchester City <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/kELfAr2ZKs4PLREu2D5pwr_-l6ZGJ4NpCm2Uuib2d4Q">https://viaplaybooking.com/agenda/kELfAr2ZKs4PLREu2D5pwr_-l6ZGJ4NpCm2Uuib2d4Q</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Finale: Chelsea - Manchester City <br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/moNYPeuKGhRnm5RGoSCn92khnFigyvwqe-FmUi_xVI0">https://viaplaybooking.com/agenda/moNYPeuKGhRnm5RGoSCn92khnFigyvwqe-FmUi_xVI0</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260527T140000
 DTEND;TZID=Europe/Stockholm:20260527T160000
 SUMMARY:[14:00-16:00] [BOOKED] CL - ANALYSEN: FINALEN 
 UID:job-29923@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/m_5wB-mSXiAs8fiS2-DkHkdbTOLaZ8qlJkzRICP8EOU
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/HqfdA0fD-hzXAxtbMkLRUN7PLjD6Wqyg5FgzkSCAVko
 DESCRIPTION:CL - ANALYSEN: FINALEN 
 
 Role: Foto Studio
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>CL - ANALYSEN: FINALEN <br/><br/>Role: Foto Studio<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/m_5wB-mSXiAs8fiS2-DkHkdbTOLaZ8qlJkzRICP8EOU">https://viaplaybooking.com/agenda/m_5wB-mSXiAs8fiS2-DkHkdbTOLaZ8qlJkzRICP8EOU</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>CL - ANALYSEN: FINALEN <br/><br/>Role: Foto Studio<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/HqfdA0fD-hzXAxtbMkLRUN7PLjD6Wqyg5FgzkSCAVko">https://viaplaybooking.com/agenda/HqfdA0fD-hzXAxtbMkLRUN7PLjD6Wqyg5FgzkSCAVko</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260606T110000
 DTEND;TZID=Europe/Stockholm:20260606T180000
 SUMMARY:[11:00-18:00] [BOOKED] Grand Prix De Monaco - 1st Qualification
 UID:job-30393@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/tatZVSM9Y8wulsW2oluexGXzF1QA7RePmuKeycGuoNI
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/DDBpyuZ8f-xEgt8CItYZLuNTBsbAnJ1JiRYVT6SlOvo
 DESCRIPTION:Grand Prix De Monaco - 1st Qualification
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Grand Prix De Monaco - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/tatZVSM9Y8wulsW2oluexGXzF1QA7RePmuKeycGuoNI">https://viaplaybooking.com/agenda/tatZVSM9Y8wulsW2oluexGXzF1QA7RePmuKeycGuoNI</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Grand Prix De Monaco - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/DDBpyuZ8f-xEgt8CItYZLuNTBsbAnJ1JiRYVT6SlOvo">https://viaplaybooking.com/agenda/DDBpyuZ8f-xEgt8CItYZLuNTBsbAnJ1JiRYVT6SlOvo</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260602T100000
 DTEND;TZID=Europe/Stockholm:20260602T120000
 SUMMARY:[10:00-12:00] [BOOKED] Oplæring i robot afvikling 2
 UID:job-30396@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/x3ERfCBjdKcph8bp-SeXv1UOxickF776TRjEem3CLIQ
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/PqLiFN4YlkMfYXxtvlyBuIQIpuaRpXGpFPGveHAmD8k
 DESCRIPTION:Oplæring i robot afvikling 2
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Oplæring i robot afvikling 2<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/x3ERfCBjdKcph8bp-SeXv1UOxickF776TRjEem3CLIQ">https://viaplaybooking.com/agenda/x3ERfCBjdKcph8bp-SeXv1UOxickF776TRjEem3CLIQ</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Oplæring i robot afvikling 2<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/PqLiFN4YlkMfYXxtvlyBuIQIpuaRpXGpFPGveHAmD8k">https://viaplaybooking.com/agenda/PqLiFN4YlkMfYXxtvlyBuIQIpuaRpXGpFPGveHAmD8k</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260812T180000
 DTEND;TZID=Europe/Stockholm:20260813T000000
 SUMMARY:[18:00-00:00] [BOOKED] Super Cup: Paris Saint-Germain - Aston Villa
 UID:job-30830@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/3z1FMNIwD2RwIyuHNbFUuuvX_oovuRV8Ptq136OhREo
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/Py-jEIG5zAw6DEmeP6WkM3TXdkdiNGjqUXioahztzhU
 DESCRIPTION:Super Cup: Paris Saint-Germain - Aston Villa
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Super Cup: Paris Saint-Germain - Aston Villa<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/3z1FMNIwD2RwIyuHNbFUuuvX_oovuRV8Ptq136OhREo">https://viaplaybooking.com/agenda/3z1FMNIwD2RwIyuHNbFUuuvX_oovuRV8Ptq136OhREo</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Super Cup: Paris Saint-Germain - Aston Villa<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/Py-jEIG5zAw6DEmeP6WkM3TXdkdiNGjqUXioahztzhU">https://viaplaybooking.com/agenda/Py-jEIG5zAw6DEmeP6WkM3TXdkdiNGjqUXioahztzhU</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260822T100000
 DTEND;TZID=Europe/Stockholm:20260822T180000
 SUMMARY:[10:00-18:00] [BOOKED] Dutch Grand Prix - 1st Qualification
 UID:job-35074@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/m8tbynbACgTFvf6F7sxulF47DalpIst_6QFZ-zGYr58
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/oouM8U9HnmA5Wsq_JgfrGIB8hyOz8cWuMRm6d3qLxFc
 DESCRIPTION:Dutch Grand Prix - 1st Qualification
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Dutch Grand Prix - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/m8tbynbACgTFvf6F7sxulF47DalpIst_6QFZ-zGYr58">https://viaplaybooking.com/agenda/m8tbynbACgTFvf6F7sxulF47DalpIst_6QFZ-zGYr58</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Dutch Grand Prix - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/oouM8U9HnmA5Wsq_JgfrGIB8hyOz8cWuMRm6d3qLxFc">https://viaplaybooking.com/agenda/oouM8U9HnmA5Wsq_JgfrGIB8hyOz8cWuMRm6d3qLxFc</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260905T113000
 DTEND;TZID=Europe/Stockholm:20260905T180000
 SUMMARY:[11:30-18:00] [BOOKED] Italian Grand Prix - 1st Qualification
 UID:job-35112@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/cJu-0c63lKJRQm-Hi4z4g6JmeANgs8W_FJRFU8eGziI
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/aFT7BTeWnjnGEZp2GbBmYO3hdXVPNCVTfQ9i6bHhGPQ
 DESCRIPTION:Italian Grand Prix - 1st Qualification
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Italian Grand Prix - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/cJu-0c63lKJRQm-Hi4z4g6JmeANgs8W_FJRFU8eGziI">https://viaplaybooking.com/agenda/cJu-0c63lKJRQm-Hi4z4g6JmeANgs8W_FJRFU8eGziI</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Italian Grand Prix - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/aFT7BTeWnjnGEZp2GbBmYO3hdXVPNCVTfQ9i6bHhGPQ">https://viaplaybooking.com/agenda/aFT7BTeWnjnGEZp2GbBmYO3hdXVPNCVTfQ9i6bHhGPQ</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260906T113000
 DTEND;TZID=Europe/Stockholm:20260906T180000
 SUMMARY:[11:30-18:00] [BOOKED] Italian Grand Prix - Race
 UID:job-35119@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/aWw7aGLkefJh2uwW2q234E1KkFYVSaBMLeUTit2jTOQ
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/_Imo129lxOdLBN5gEeCK-Y61mFqXR_9JVYd2gRHPuB8
 DESCRIPTION:Italian Grand Prix - Race
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Italian Grand Prix - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/aWw7aGLkefJh2uwW2q234E1KkFYVSaBMLeUTit2jTOQ">https://viaplaybooking.com/agenda/aWw7aGLkefJh2uwW2q234E1KkFYVSaBMLeUTit2jTOQ</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Italian Grand Prix - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/_Imo129lxOdLBN5gEeCK-Y61mFqXR_9JVYd2gRHPuB8">https://viaplaybooking.com/agenda/_Imo129lxOdLBN5gEeCK-Y61mFqXR_9JVYd2gRHPuB8</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260912T113000
 DTEND;TZID=Europe/Stockholm:20260912T180000
 SUMMARY:[11:30-18:00] [BOOKED] Madrid - 1st Qualification
 UID:job-35148@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/-B6BlAQAez40thqPI25CPzfUDXKqMywpqRnXejGfH_g
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/yo2ktYJr5Geko1w703P3nPbPLwGTRIuNUzVp2RLV7Ik
 DESCRIPTION:Madrid - 1st Qualification
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Madrid - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/-B6BlAQAez40thqPI25CPzfUDXKqMywpqRnXejGfH_g">https://viaplaybooking.com/agenda/-B6BlAQAez40thqPI25CPzfUDXKqMywpqRnXejGfH_g</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Madrid - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/yo2ktYJr5Geko1w703P3nPbPLwGTRIuNUzVp2RLV7Ik">https://viaplaybooking.com/agenda/yo2ktYJr5Geko1w703P3nPbPLwGTRIuNUzVp2RLV7Ik</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260913T113000
 DTEND;TZID=Europe/Stockholm:20260913T180000
 SUMMARY:[11:30-18:00] [BOOKED] Madrid - Race
 UID:job-35153@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/Kyute2Fz3ZkGP2vG_GboYMnaV7Hmab3LZ3OH_JeFb_Q
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/sPk7oJ6YO4VImykhs2oj8Qz5EC_gnXxZ1PgamHsA1H8
 DESCRIPTION:Madrid - Race
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Madrid - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/Kyute2Fz3ZkGP2vG_GboYMnaV7Hmab3LZ3OH_JeFb_Q">https://viaplaybooking.com/agenda/Kyute2Fz3ZkGP2vG_GboYMnaV7Hmab3LZ3OH_JeFb_Q</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Madrid - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/sPk7oJ6YO4VImykhs2oj8Qz5EC_gnXxZ1PgamHsA1H8">https://viaplaybooking.com/agenda/sPk7oJ6YO4VImykhs2oj8Qz5EC_gnXxZ1PgamHsA1H8</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260925T093000
 DTEND;TZID=Europe/Stockholm:20260925T160000
 SUMMARY:[09:30-16:00] [BOOKED] Azerbaijan Grand Prix - 1st Qualification
 UID:job-35193@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/V0uG0KAEUKU3-40lxPieCeSjQz1obh5zXChR4V7V7jQ
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/ukJF_ptWYpX_aib7WogaYoo-21fvIUBHucxJh0sQGLw
 DESCRIPTION:Azerbaijan Grand Prix - 1st Qualification
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Azerbaijan Grand Prix - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/V0uG0KAEUKU3-40lxPieCeSjQz1obh5zXChR4V7V7jQ">https://viaplaybooking.com/agenda/V0uG0KAEUKU3-40lxPieCeSjQz1obh5zXChR4V7V7jQ</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Azerbaijan Grand Prix - 1st Qualification<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/ukJF_ptWYpX_aib7WogaYoo-21fvIUBHucxJh0sQGLw">https://viaplaybooking.com/agenda/ukJF_ptWYpX_aib7WogaYoo-21fvIUBHucxJh0sQGLw</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20261011T103000
 DTEND;TZID=Europe/Stockholm:20261011T170000
 SUMMARY:[10:30-17:00] [BOOKED] Singapore Grand Prix - Race
 UID:job-35231@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/lw_UCnAfg5c25SSKqZBL8F5BAnY-c-PqFj1KiIsFzpQ
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/Ou-Q17y8dnLHruDgWAyEIbF3zBFouSwlIxWYXqIk4ic
 DESCRIPTION:Singapore Grand Prix - Race
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Singapore Grand Prix - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/lw_UCnAfg5c25SSKqZBL8F5BAnY-c-PqFj1KiIsFzpQ">https://viaplaybooking.com/agenda/lw_UCnAfg5c25SSKqZBL8F5BAnY-c-PqFj1KiIsFzpQ</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Singapore Grand Prix - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/Ou-Q17y8dnLHruDgWAyEIbF3zBFouSwlIxWYXqIk4ic">https://viaplaybooking.com/agenda/Ou-Q17y8dnLHruDgWAyEIbF3zBFouSwlIxWYXqIk4ic</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20261025T173000
 DTEND;TZID=Europe/Stockholm:20261026T000000
 SUMMARY:[17:30-00:00] [BOOKED] United States Grand Prix - Race
 UID:job-35278@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/CujYBJJwGVZuUnT3VXZpmyQw3KI82UP_-DHcBWYxm7E
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/FRRvYxfv6CuTxKlMpdAOuiA4L17lWo0pCp9RMiqA4jY
 DESCRIPTION:United States Grand Prix - Race
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>United States Grand Prix - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/CujYBJJwGVZuUnT3VXZpmyQw3KI82UP_-DHcBWYxm7E">https://viaplaybooking.com/agenda/CujYBJJwGVZuUnT3VXZpmyQw3KI82UP_-DHcBWYxm7E</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>United States Grand Prix - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/FRRvYxfv6CuTxKlMpdAOuiA4L17lWo0pCp9RMiqA4jY">https://viaplaybooking.com/agenda/FRRvYxfv6CuTxKlMpdAOuiA4L17lWo0pCp9RMiqA4jY</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260823T163000
 DTEND;TZID=Europe/Stockholm:20260823T222000
 SUMMARY:[16:30-22:20] [BOOKED] Onside
 UID:job-35377@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/-EIp71bnn650a_AK6o-t3SCPc3MCLUAXbZQHCEpzWTs
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/eFWz-_VZzORFL_Oj_tdxF0DYtmi6rkz2qXAfPXq9GnE
 DESCRIPTION:Onside
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Onside<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/-EIp71bnn650a_AK6o-t3SCPc3MCLUAXbZQHCEpzWTs">https://viaplaybooking.com/agenda/-EIp71bnn650a_AK6o-t3SCPc3MCLUAXbZQHCEpzWTs</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Onside<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/eFWz-_VZzORFL_Oj_tdxF0DYtmi6rkz2qXAfPXq9GnE">https://viaplaybooking.com/agenda/eFWz-_VZzORFL_Oj_tdxF0DYtmi6rkz2qXAfPXq9GnE</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20261101T173000
 DTEND;TZID=Europe/Stockholm:20261102T000000
 SUMMARY:[17:30-00:00] [BOOKED] Gran Premio de la Ciudad de Mexico - Race
 UID:job-35392@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/KHOHDGmF5j734delfQovhYAILULeE5L_Ie8TuJc23J4
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/bN3a_onb-UVbtVA0As6auAWcaAgDarWLQt-njCuJ2PE
 DESCRIPTION:Gran Premio de la Ciudad de Mexico - Race
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Gran Premio de la Ciudad de Mexico - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/KHOHDGmF5j734delfQovhYAILULeE5L_Ie8TuJc23J4">https://viaplaybooking.com/agenda/KHOHDGmF5j734delfQovhYAILULeE5L_Ie8TuJc23J4</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Gran Premio de la Ciudad de Mexico - Race<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/bN3a_onb-UVbtVA0As6auAWcaAgDarWLQt-njCuJ2PE">https://viaplaybooking.com/agenda/bN3a_onb-UVbtVA0As6auAWcaAgDarWLQt-njCuJ2PE</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260710T130313Z
+DTSTAMP:20260710T130417Z
 DTSTART;TZID=Europe/Stockholm:20260731T100000
 DTEND;TZID=Europe/Stockholm:20260731T140000
 SUMMARY:[10:00-14:00] [BOOKED] Oplæring Lys i afvikl. 1
 UID:job-36253@viaplaybooking.com
-DTSTAMP:20260710T130313Z
-URL:https://viaplaybooking.com/agenda/MLXjmlf2TK2_s11qXvhV8mHoRl9Rf2pwZCR_iUytiwo
+DTSTAMP:20260710T130417Z
+URL:https://viaplaybooking.com/agenda/O9zxv-jEDvFDrWADlmJqNpXAkLGLAYEutzzkb0TGOCw
 DESCRIPTION:Oplæring Lys i afvikl. 1
 
 Role: Robotfoto
 
 Go to your agenda to see more details.
-X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Oplæring Lys i afvikl. 1<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/MLXjmlf2TK2_s11qXvhV8mHoRl9Rf2pwZCR_iUytiwo">https://viaplaybooking.com/agenda/MLXjmlf2TK2_s11qXvhV8mHoRl9Rf2pwZCR_iUytiwo</a></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML><html><body>Oplæring Lys i afvikl. 1<br/><br/>Role: Robotfoto<br/><br/>Go to your agenda to see more details<br/><br/><a href="https://viaplaybooking.com/agenda/O9zxv-jEDvFDrWADlmJqNpXAkLGLAYEutzzkb0TGOCw">https://viaplaybooking.com/agenda/O9zxv-jEDvFDrWADlmJqNpXAkLGLAYEutzzkb0TGOCw</a></body></html>
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
